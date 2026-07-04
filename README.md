@@ -2,17 +2,17 @@
 
 
 A repo for installing macOS Sonoma on HP Pavilion x360 14 using OpenCore.
-![Screenshot](https://github.com/user-attachments/assets/35d95cbb-147b-47fc-b6bb-3a0a4ee1f730)
+![Screenshot](Images/Screenshot.png)
 
 
 # Laptop's Hardware 
 - <b>CPU</b>: [Intel i5 10210U](https://www.intel.co.id/content/www/id/id/products/sku/195436/intel-core-i510210u-processor-6m-cache-up-to-4-20-ghz/specifications.html) Quad-Core CPU 2.1Ghz (Comet Lake-U)
 - <b>GPU</b>: Intel UHD 630 Graphics 
 - <b>Storage</b>: 238 GB WD SN520 NVME PCIe SSD
-- <b>RAM</b>: 8 GB DDR4 2666MHz
+- <b>RAM</b>: 16 GB DDR4 2666MHz
 - <b>Screen</b>: 14-inch FHD (1920 x 1080)
 - <b>Trackpad</b>: SYNAPTICS SYNA328b (I2C)
-- <b>Wi-Fi</b>: Intel Corporation Comet Lake PCH-LP CNVi WiFi
+- <b>Wi-Fi</b>: RTL8822CE Working on MacOS, thanks to [Feixiao - an open-source Realtek WLAN driver for macOS](https://github.com/thegwchr/Feixiao)
 - <b>Ports</b>: 1 x USB-C, 2 x USB 3.0,USB 2.0 SD Card Reader, HDMI Display Port
 
 # Overview 
