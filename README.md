@@ -1,7 +1,7 @@
 # HP-Pavilion-x360-14-Hackintosh
 
 
-A repo for installing macOS Sonoma on HP Pavilion x360 14 using OpenCore.
+A repo for installing macOS Sequoia on HP Pavilion x360 14 using OpenCore.
 ![Screenshot](Images/Screenshot.png)
 
 
